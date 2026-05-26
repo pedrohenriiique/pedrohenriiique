@@ -10,8 +10,8 @@ Bug bounty hunter in progress⚡
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="Bash" 
-    title="Bash"
+    alt="Shell Script" 
+    title="Shell Script"
     width="30px" 
     style="padding-right: 10px;"
     src="https://img.icons8.com/color/48/bash.png"
