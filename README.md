@@ -7,7 +7,7 @@ Bug bounty hunter in progress⚡
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies and Languages
 <img 
     align="left" 
     alt="Shell Script" 
@@ -85,7 +85,7 @@ Bug bounty hunter in progress⚡
 
 ---
 
-### 🤖 Estatísticas
+### 📊 Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrohenriiique&layout=compact&theme=dark&hide_border=false" width="400" />
